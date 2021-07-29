@@ -2,7 +2,8 @@ body{
     font-family: 'Archivo Narrow', sans-serif;
 font-family: 'Maven Pro', sans-serif;
 font-family: 'Merriweather Sans', sans-serif;
-margin: 5%;
+margin: 0%;
+margin-top: 20px;
 }
 span{
     color: rgb(240, 111, 111);
@@ -20,11 +21,31 @@ h1{
 }
 .flexibility{
     display: flex;
+   
 }
 .positioning{
     width: 50%;
-    padding-left: 8%;
+    padding-left: 5%; 
 }
 .positioning img{
-    width: 100%;  
+    width: 100%; 
+}
+p{
+    font-weight: bold;
+    font-size: large;
+}
+.image1{
+    background-image: url(images/8.png);
+    background-repeat: no-repeat;
+    margin-bottom: 130px;
+}
+.image2{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    margin-bottom: 130px;
+}
+#img{
+    width: 350px;
+    height: 500px;
+    padding-left: 20%;
 }
