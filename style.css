@@ -1,0 +1,37 @@
+body{
+    font-family: 'Archivo Narrow', sans-serif;
+font-family: 'Maven Pro', sans-serif;
+font-family: 'Merriweather Sans', sans-serif;
+margin: 5%;
+}
+span{
+    color: rgb(240, 111, 111);
+}
+h1{
+    font-size: 55px ;
+}
+.button{
+    background-image: linear-gradient(red,yellow);
+    padding:20px 40px;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    border-radius: 23px;
+}
+.background{
+    background-image: url(images/frame1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.flexibility{
+    display: flex;
+}
+.positioning{
+    width: 50%;
+    padding-left: 8%;
+    
+}
+.positioning img{
+    padding-top: 8%;
+    width: 100%;  
+}
